@@ -32,7 +32,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: https://github.com/delia-cretu/huddle-landing-page-with-curved-sections-master
-- Live Site URL:
+- Live Site URL: https://delia-cretu.github.io/huddle-landing-page-with-curved-sections-master/
 
 ## My process
 
