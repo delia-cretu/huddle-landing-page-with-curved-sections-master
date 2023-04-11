@@ -13,8 +13,6 @@ This is a solution to the [Huddle landing page with curved sections challenge on
   - [What I learned](#what-i-learned)
   - [Continued development](#continued-development)
   - [Useful resources](#useful-resources)
-- [Author](#author)
-- [Acknowledgments](#acknowledgments)
 
 ## Overview
 
@@ -33,7 +31,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL:
+- Solution URL: https://github.com/delia-cretu/huddle-landing-page-with-curved-sections-master
 - Live Site URL:
 
 ## My process
